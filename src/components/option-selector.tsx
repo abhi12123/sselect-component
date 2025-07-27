@@ -226,7 +226,7 @@ export default function OptionSelector() {
                   />
                   <div className="flex gap-2 ">
                     <label htmlFor="has-children">Has children</label>
-                    <Input
+                    <input
                       placeholder="has children"
                       name="has-children"
                       type="checkbox"
